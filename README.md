@@ -4,4 +4,4 @@ Investigated multithreading and multiprocessing on API calls, IO tasks, CPU inte
 Ubuntu == 16.04
 Python == 3.6
 ## Acknowledgement
-This code is adapted from Brendan([https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b]).
+This code is adapted from [Brendan](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b).
